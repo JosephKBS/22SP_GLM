@@ -1,4 +1,4 @@
-![main](main1.png)
+![main](glmm.png)
 
 # Generalized Linear and Mixed Models course (2022 Spring)
 course sub-material for Generalized Linear Mixture Model
