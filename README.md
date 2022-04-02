@@ -1,6 +1,6 @@
 ![main](main1.png)
 
-# Generalized Linear Mixture Model course (2022 Spring)
+# Generalized Linear and Mixed Models course (2022 Spring)
 course sub-material for Generalized Linear Mixture Model
 
   - Week 1 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w1) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek1/)
