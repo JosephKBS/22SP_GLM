@@ -11,7 +11,7 @@ course sub-material for Generalized Linear Mixture Model
 
   - Week 4 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w4) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek4/)| [ Quiz ](https://forms.gle/y3B53pcpfG4uX4Mg8) | [ Solution ](https://github.com/JosephKBS/22SP_GLM/tree/main/W4/quiz2_sol.R)
 
-  - Week 5 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w5) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek5/) | [ Quiz ](https://forms.gle/bptzK9guRveGGmzU9)| [ Solution ](https://github.com/JosephKBS/22SP_GLM/tree/main/W4/quiz3_sol.R)
+  - Week 5 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w5) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek5/) | [ Quiz ](https://forms.gle/bptzK9guRveGGmzU9)| [ Solution ](https://github.com/JosephKBS/22SP_GLM/tree/main/W5/quiz3_sol.R)
 
   - Week 6 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w6) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek6/) | [ Quiz ]( )| [ Solution ](https://github.com/JosephKBS/22SP_GLM/tree/main/W4/quiz4_sol.R)
 
