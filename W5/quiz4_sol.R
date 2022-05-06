@@ -1,4 +1,7 @@
-# Pop-quiz 4 Solution
+# title: "Pop-Quiz 4 Solution"
+# subtitle: "Generalized Linear Models and Extensions (2022 Spring / APSTA-GE 2044)"
+# author: "Kwan Bo Shim"
+# date: "4/26/2022"
 
 # Q1. In order to run the Poisson regression using 'glm' function in R, what 'LINK' function should you use?
 
