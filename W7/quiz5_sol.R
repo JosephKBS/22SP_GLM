@@ -1,16 +1,10 @@
 ---
-title: "Pop-quiz 5 Solution"
-author: "Kwan Bo Shim"
-date: "5/5/2022"
-output:
-  pdf_document: default
-  html_document: default
-subtitle: Generalized Linear Models and Extensions (2022 Spring/APSTA-GE 2044)
+# title: "Pop-Quiz 5 Solution"
+# subtitle: "Generalized Linear Models and Extensions (2022 Spring / APSTA-GE 2044)"
+# author: "Kwan Bo Shim"
 ---
 
-
-
-
+# --------------------------------------------------------------------------
 # loading data
 ```{r}
 # penguins is loaded in palmerpenguins
@@ -50,11 +44,15 @@ penguins <- penguins[!msg, ]
 
 # Part A - Multinomial logit model (Q1-Q2)
 
+
+
+# --------------------------------------------------------------------------
 # Q1. Choose a right sentence that describes the effect for the predictors (bill_length_mm)
 
 
 
 
+# --------------------------------------------------------------------------
 # Q2. Compute the confusion matrix for the model and report how many species do the models correctly predict overall (Please sum of all correct cases).
 
 
@@ -83,6 +81,7 @@ penguins <- penguins[!msg, ]
  TypeTerrace   -1.0141
 
 
+# --------------------------------------------------------------------------
 # Q3. Find a CORRECT Interpretation on the Infl coefficient as an odds ratio, being explicit about what is in the numerator and denominator of those odds.
 
 
@@ -145,16 +144,23 @@ predictors were collected, including:
 
 
 
+# --------------------------------------------------------------------------
 # Q4.  Is there evidence of overdispersion (use deviance residuals and a chi-square test)
 
   
   
   
   
-  
+
+# --------------------------------------------------------------------------
 # Q5. Interpret the bad health coefficient along with the proportion of non-user predicted by the model.
 
 
   
   
   
+
+
+
+
+# --------------------------------------------------------------------------
